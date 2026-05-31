@@ -1,0 +1,671 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<report>
+  <schema_version>5.0.2</schema_version>
+  <rentity_id>33</rentity_id>
+  <rentity_branch>Kairos Bank Mozambique Sede</rentity_branch>
+  <submission_code>E</submission_code>
+  <report_code>DCTR</report_code>
+  <entity_reference>KAIROS.DCTR.20260528_0001.xml+20260528+0001</entity_reference>
+  <report_date>2026-05-28T00:00:00</report_date>
+  <currency_code_local>MZN</currency_code_local>
+  <reporting_user_code>ComplianceUser01</reporting_user_code>
+  <location>
+    <address_type>B</address_type>
+      <address>Praca 25 de Junho</address>
+      <city>Maputo</city>
+      <country_code>MZ</country_code>
+      <state>Maputo</state>
+    </location>
+  <action>N/A</action>
+  <transaction>
+    <transactionnumber>CTR-000158</transactionnumber>
+    <internal_ref_number>CTR-000158</internal_ref_number>
+    <transaction_description>Levantamento em Numerário</transaction_description>
+    <date_transaction>2026-05-15T09:39:10</date_transaction>
+    <value_date>2026-05-15T09:39:10</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM2</transmode_code>
+    <amount_local>1190866.89</amount_local>
+    <t_from_my_client>
+      <from_funds_code>FTM7</from_funds_code>
+      <from_funds_comment>Funds Transfer</from_funds_comment>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830134133728</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Moçambique Tecnologia de Informação Lda</account_name>
+        <iban>MZ00830134133728</iban>
+        <client_number>91</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Moçambique Tecnologia de Informação Lda</name>
+          <commercial_name>Moçambique Tecnologia de Informação Lda</commercial_name>
+          <incorporation_number>721584974</incorporation_number>
+          <business>Telecomunicações</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258849493414</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Munguambe n.713</address>
+              <city>Tete</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <incorporation_state>Tete</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>464525865</tax_number>
+          <tax_reg_number>721584974</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>João</first_name>
+            <last_name>Guambe</last_name>
+            <birthdate>1960-08-31T00:00:00</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258863863663</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <address>Tete</address>
+                <city>Tete</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <identification>
+              <type>B</type>
+              <number>669794001237</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2021-08-30T00:00:00</opened>
+        <balance>3580071.95</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Moçambique Tecnologia de Informação Lda</beneficiary>
+        <beneficiary_comment>Moçambique Tecnologia de Informação Lda</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from_my_client>
+    <t_to>
+      <to_funds_code>FTM7</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>KAIRSMZM</institution_code>
+        <institution_country>MZ</institution_country>
+        <account>CASH</account>
+        <account_name>Sandra Machangana Muchanga</account_name>
+        <t_entity>
+          <name>Sandra Machangana Muchanga</name>
+          <commercial_name>Sandra Machangana Muchanga</commercial_name>
+          <incorporation_country_code>MZ</incorporation_country_code>
+        </t_entity>
+        <beneficiary>Sandra Machangana Muchanga</beneficiary>
+        <beneficiary_comment>Sandra Machangana Muchanga</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to>
+  </transaction>
+  <transaction>
+    <transactionnumber>CTR-000008</transactionnumber>
+    <internal_ref_number>CTR-000008</internal_ref_number>
+    <transaction_description>Depósito em Numerário</transaction_description>
+    <date_transaction>2026-05-15T10:16:33</date_transaction>
+    <value_date>2026-05-15T10:16:33</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM2</transmode_code>
+    <amount_local>519803.57</amount_local>
+    <t_from>
+      <from_funds_code>FTM7</from_funds_code>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>KAIRSMZM</institution_code>
+        <institution_country>MZ</institution_country>
+        <account>CASH</account>
+        <account_name>Carlos Tembe Macamo</account_name>
+        <t_entity>
+          <name>Carlos Tembe Macamo</name>
+          <commercial_name>Carlos Tembe Macamo</commercial_name>
+          <incorporation_country_code>MZ</incorporation_country_code>
+        </t_entity>
+        <beneficiary>Carlos Tembe Macamo</beneficiary>
+        <beneficiary_comment>Carlos Tembe Macamo</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from>
+    <t_to_my_client>
+      <to_funds_code>FTM7</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830189317285</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Nhantumbo Indústria Transformadora Lda</account_name>
+        <iban>MZ00830189317285</iban>
+        <client_number>63</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Nhantumbo Indústria Transformadora Lda</name>
+          <commercial_name>Nhantumbo Indústria Transformadora Lda</commercial_name>
+          <incorporation_number>793801200</incorporation_number>
+          <business>Transportes e Logística</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258873649290</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Muchanga n.333</address>
+              <city>Maputo Província</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <incorporation_state>Maputo Província</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>694575912</tax_number>
+          <tax_reg_number>793801200</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Manuel</first_name>
+            <last_name>Nhavene</last_name>
+            <birthdate>1989-01-07T00:00:00</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258820539801</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <address>Maputo Província</address>
+                <city>Maputo Província</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <identification>
+              <type>B</type>
+              <number>018955797825</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2015-03-06T00:00:00</opened>
+        <balance>4304661.71</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Nhantumbo Indústria Transformadora Lda</beneficiary>
+        <beneficiary_comment>Nhantumbo Indústria Transformadora Lda</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to_my_client>
+  </transaction>
+  <transaction>
+    <transactionnumber>CTR-000259</transactionnumber>
+    <internal_ref_number>CTR-000259</internal_ref_number>
+    <transaction_description>Levantamento em Numerário</transaction_description>
+    <date_transaction>2026-05-15T10:34:11</date_transaction>
+    <value_date>2026-05-15T10:34:11</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM2</transmode_code>
+    <amount_local>979689.95</amount_local>
+    <t_from_my_client>
+      <from_funds_code>FTM7</from_funds_code>
+      <from_funds_comment>Funds Transfer</from_funds_comment>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830101057839</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Moçambique Agricultura e Pecuária S.A.</account_name>
+        <iban>MZ00830101057839</iban>
+        <client_number>19</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Moçambique Agricultura e Pecuária S.A.</name>
+          <commercial_name>Moçambique Agricultura e Pecuária S.A.</commercial_name>
+          <incorporation_number>231464070</incorporation_number>
+          <business>Construção Civil</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258846179730</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Zunguze n.859</address>
+              <city>Sofala</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <incorporation_state>Sofala</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>530487022</tax_number>
+          <tax_reg_number>231464070</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Sofia</first_name>
+            <last_name>Nhateve</last_name>
+            <birthdate>1984-11-11T00:00:00</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258855411385</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <address>Sofala</address>
+                <city>Sofala</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <identification>
+              <type>B</type>
+              <number>302888352420</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2017-03-03T00:00:00</opened>
+        <balance>1214754.8</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Moçambique Agricultura e Pecuária S.A.</beneficiary>
+        <beneficiary_comment>Moçambique Agricultura e Pecuária S.A.</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from_my_client>
+    <t_to>
+      <to_funds_code>FTM7</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>KAIRSMZM</institution_code>
+        <institution_country>MZ</institution_country>
+        <account>CASH</account>
+        <account_name>Cristina Pateguana Zunguze</account_name>
+        <t_entity>
+          <name>Cristina Pateguana Zunguze</name>
+          <commercial_name>Cristina Pateguana Zunguze</commercial_name>
+          <incorporation_country_code>MZ</incorporation_country_code>
+        </t_entity>
+        <beneficiary>Cristina Pateguana Zunguze</beneficiary>
+        <beneficiary_comment>Cristina Pateguana Zunguze</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to>
+  </transaction>
+  <transaction>
+    <transactionnumber>CTR-000034</transactionnumber>
+    <internal_ref_number>CTR-000034</internal_ref_number>
+    <transaction_description>Levantamento em Numerário</transaction_description>
+    <date_transaction>2026-05-15T11:16:43</date_transaction>
+    <value_date>2026-05-15T11:16:43</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM2</transmode_code>
+    <amount_local>163081.24</amount_local>
+    <t_from_my_client>
+      <from_funds_code>FTM7</from_funds_code>
+      <from_funds_comment>Funds Transfer</from_funds_comment>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830173676052</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Matsimbe Consultoria e Assessoria Lda</account_name>
+        <iban>MZ00830173676052</iban>
+        <client_number>80</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Matsimbe Consultoria e Assessoria Lda</name>
+          <commercial_name>Matsimbe Consultoria e Assessoria Lda</commercial_name>
+          <incorporation_number>371142350</incorporation_number>
+          <business>Transportes e Logística</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258832788829</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Pateguana n.979</address>
+              <city>Zambézia</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <email>matsimbe.consultoria@yahoo.com</email>
+          <incorporation_state>Zambézia</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>742883381</tax_number>
+          <tax_reg_number>371142350</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Adriano</first_name>
+            <last_name>Cossa</last_name>
+            <birthdate>1991-11-19T00:00:00</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258872870168</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <address>Zambézia</address>
+                <city>Zambézia</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <identification>
+              <type>B</type>
+              <number>017398437581</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2018-04-27T00:00:00</opened>
+        <balance>3664518.56</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Matsimbe Consultoria e Assessoria Lda</beneficiary>
+        <beneficiary_comment>Matsimbe Consultoria e Assessoria Lda</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from_my_client>
+    <t_to>
+      <to_funds_code>FTM7</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>KAIRSMZM</institution_code>
+        <institution_country>MZ</institution_country>
+        <account>CASH</account>
+        <account_name>Fátima Machava Muchanga</account_name>
+        <t_entity>
+          <name>Fátima Machava Muchanga</name>
+          <commercial_name>Fátima Machava Muchanga</commercial_name>
+          <incorporation_country_code>MZ</incorporation_country_code>
+        </t_entity>
+        <beneficiary>Fátima Machava Muchanga</beneficiary>
+        <beneficiary_comment>Fátima Machava Muchanga</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to>
+  </transaction>
+  <transaction>
+    <transactionnumber>CTR-000164</transactionnumber>
+    <internal_ref_number>CTR-000164</internal_ref_number>
+    <transaction_description>Levantamento em Numerário</transaction_description>
+    <date_transaction>2026-05-15T12:04:55</date_transaction>
+    <value_date>2026-05-15T12:04:55</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM2</transmode_code>
+    <amount_local>62000.72</amount_local>
+    <t_from_my_client>
+      <from_funds_code>FTM7</from_funds_code>
+      <from_funds_comment>Funds Transfer</from_funds_comment>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830161103924</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Grupo Nguenha S.A.</account_name>
+        <iban>MZ00830161103924</iban>
+        <client_number>55</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Grupo Nguenha S.A.</name>
+          <commercial_name>Grupo Nguenha S.A.</commercial_name>
+          <incorporation_number>491946999</incorporation_number>
+          <business>Importação e Exportação</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258827226622</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Munguambe n.825</address>
+              <city>Inhambane</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <email>grupo.nguenha.s.a@co.mz</email>
+          <incorporation_state>Inhambane</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>577856877</tax_number>
+          <tax_reg_number>491946999</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Dina</first_name>
+            <middle_name>Nhantumbo</middle_name>
+            <last_name>Mabunda</last_name>
+            <birthdate>1994-02-28T00:00:00</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258877579448</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <address>Inhambane</address>
+                <city>Inhambane</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <identification>
+              <type>B</type>
+              <number>339063120294</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2022-03-24T00:00:00</opened>
+        <balance>3970488.4</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Grupo Nguenha S.A.</beneficiary>
+        <beneficiary_comment>Grupo Nguenha S.A.</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from_my_client>
+    <t_to>
+      <to_funds_code>FTM7</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>KAIRSMZM</institution_code>
+        <institution_country>MZ</institution_country>
+        <account>CASH</account>
+        <account_name>Carlos Nhantumbo Mabunda</account_name>
+        <t_entity>
+          <name>Carlos Nhantumbo Mabunda</name>
+          <commercial_name>Carlos Nhantumbo Mabunda</commercial_name>
+          <incorporation_country_code>MZ</incorporation_country_code>
+        </t_entity>
+        <beneficiary>Carlos Nhantumbo Mabunda</beneficiary>
+        <beneficiary_comment>Carlos Nhantumbo Mabunda</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to>
+  </transaction>
+  <transaction>
+    <transactionnumber>CTR-000392</transactionnumber>
+    <internal_ref_number>CTR-000392</internal_ref_number>
+    <transaction_description>Levantamento em Numerário</transaction_description>
+    <date_transaction>2026-05-15T18:49:59</date_transaction>
+    <value_date>2026-05-15T18:49:59</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM2</transmode_code>
+    <amount_local>126618.0</amount_local>
+    <t_from_my_client>
+      <from_funds_code>FTM7</from_funds_code>
+      <from_funds_comment>Funds Transfer</from_funds_comment>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830160759225</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Moçambique Construção Civil Lda</account_name>
+        <iban>MZ00830160759225</iban>
+        <client_number>94</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Moçambique Construção Civil Lda</name>
+          <commercial_name>Moçambique Construção Civil Lda</commercial_name>
+          <incorporation_number>641416693</incorporation_number>
+          <business>Telecomunicações</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258869420282</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Matsimbe n.718</address>
+              <city>Niassa</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <incorporation_state>Niassa</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>339469025</tax_number>
+          <tax_reg_number>641416693</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Lurdes</first_name>
+            <middle_name>Matsimbe</middle_name>
+            <last_name>Guambe</last_name>
+            <birthdate>1962-11-13T00:00:00</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>PT</nationality1>
+            <residence>PT</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258213891075</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <address>Niassa</address>
+                <city>Niassa</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <identification>
+              <type>B</type>
+              <number>239933681378</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2018-08-20T00:00:00</opened>
+        <balance>4140217.22</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Moçambique Construção Civil Lda</beneficiary>
+        <beneficiary_comment>Moçambique Construção Civil Lda</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from_my_client>
+    <t_to>
+      <to_funds_code>FTM7</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>KAIRSMZM</institution_code>
+        <institution_country>MZ</institution_country>
+        <account>CASH</account>
+        <account_name>Graça Mahumane Machangana</account_name>
+        <t_entity>
+          <name>Graça Mahumane Machangana</name>
+          <commercial_name>Graça Mahumane Machangana</commercial_name>
+          <incorporation_country_code>MZ</incorporation_country_code>
+        </t_entity>
+        <beneficiary>Graça Mahumane Machangana</beneficiary>
+        <beneficiary_comment>Graça Mahumane Machangana</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to>
+  </transaction>
+</report>

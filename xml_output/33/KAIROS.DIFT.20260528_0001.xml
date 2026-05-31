@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<report>
+  <schema_version>5.0.2</schema_version>
+  <rentity_id>33</rentity_id>
+  <rentity_branch>Kairos Bank Mozambique Sede</rentity_branch>
+  <submission_code>E</submission_code>
+  <report_code>DIFT</report_code>
+  <entity_reference>KAIROS.DIFT.20260528_0001.xml+20260528+0001</entity_reference>
+  <report_date>2026-05-28T00:00:00</report_date>
+  <currency_code_local>MZN</currency_code_local>
+  <reporting_user_code>ComplianceUser01</reporting_user_code>
+  <location>
+    <address_type>B</address_type>
+      <address>Praca 25 de Junho</address>
+      <city>Maputo</city>
+      <country_code>MZ</country_code>
+      <state>Maputo</state>
+    </location>
+  <action>N/A</action>
+  <transaction>
+    <transactionnumber>IFT-000400</transactionnumber>
+    <internal_ref_number>IFT-000400</internal_ref_number>
+    <transaction_description>International transfer &#8212; Nedbank Group</transaction_description>
+    <date_transaction>2026-05-15T11:01:39</date_transaction>
+    <value_date>2026-05-15T11:01:39</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM4</transmode_code>
+    <amount_local>5775406.77</amount_local>
+    <t_from>
+      <from_funds_code>FTM19</from_funds_code>
+      <from_account>
+        <institution_name>Nedbank Group</institution_name>
+        <institution_code>NEDSZA22</institution_code>
+        <institution_country>ZA</institution_country>
+        <account>DE26174388108227930404</account>
+        <account_name>Zunguze Consultoria e Assessoria Lda</account_name>
+        <t_entity>
+          <name>Zunguze Consultoria e Assessoria Lda</name>
+          <commercial_name>Zunguze Consultoria e Assessoria Lda</commercial_name>
+          <incorporation_country_code>ZA</incorporation_country_code>
+        </t_entity>
+        <beneficiary>Zunguze Consultoria e Assessoria Lda</beneficiary>
+        <beneficiary_comment>Zunguze Consultoria e Assessoria Lda</beneficiary_comment>
+      </from_account>
+      <from_country>ZA</from_country>
+    </t_from>
+    <t_to_my_client>
+      <to_funds_code>FTM19</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830182150316</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Mahumane &amp; Guambe SARL</account_name>
+        <iban>MZ00830182150316</iban>
+        <client_number>24</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Mahumane &amp; Guambe SARL</name>
+          <commercial_name>Mahumane &amp; Guambe SARL</commercial_name>
+          <incorporation_number>437523979</incorporation_number>
+          <business>Saúde e Farmácia</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258838234291</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Mondlane n.825</address>
+              <city>Maputo Cidade</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <incorporation_state>Maputo Cidade</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>438245642</tax_number>
+          <tax_reg_number>437523979</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Manuel</first_name>
+            <middle_name>Nhateve</middle_name>
+            <last_name>Sitoe</last_name>
+            <birthdate>1970-08-21T00:00:00</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>ZA</nationality1>
+            <residence>ZA</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258868019583</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <address>Maputo Cidade</address>
+                <city>Maputo Cidade</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <identification>
+              <type>B</type>
+              <number>353280483279</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2021-02-19T00:00:00</opened>
+        <balance>2682119.75</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Mahumane &amp; Guambe SARL</beneficiary>
+        <beneficiary_comment>Mahumane &amp; Guambe SARL</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to_my_client>
+  </transaction>
+  <transaction>
+    <transactionnumber>IFT-000423</transactionnumber>
+    <internal_ref_number>IFT-000423</internal_ref_number>
+    <transaction_description>International transfer &#8212; Barclays Bank UK</transaction_description>
+    <date_transaction>2026-05-15T17:27:26</date_transaction>
+    <value_date>2026-05-15T17:27:26</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM4</transmode_code>
+    <amount_local>86940605.4</amount_local>
+    <t_from_my_client>
+      <from_funds_code>FTM19</from_funds_code>
+      <from_funds_comment>Funds Transfer</from_funds_comment>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830169888637</account>
+        <currency_code>EUR</currency_code>
+        <account_name>Grupo Machava Lda</account_name>
+        <iban>MZ00830169888637</iban>
+        <client_number>167</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Grupo Machava Lda</name>
+          <commercial_name>Grupo Machava Lda</commercial_name>
+          <incorporation_number>793120693</incorporation_number>
+          <business>Serviços Financeiros</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258850538740</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Muchanga n.275</address>
+              <city>Niassa</city>
+              <country_code>GB</country_code>
+            </address>
+          </addresses>
+          <email>grupo.machava.lda@yahoo.com</email>
+          <incorporation_state>Niassa</incorporation_state>
+          <incorporation_country_code>GB</incorporation_country_code>
+          <tax_number>124541668</tax_number>
+          <tax_reg_number>793120693</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Conceição</first_name>
+            <middle_name>Muchanga</middle_name>
+            <last_name>Uamusse</last_name>
+            <birthdate>1969-08-13T00:00:00</birthdate>
+            <birth_place>GB</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258823154243</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <address>Niassa</address>
+                <city>Niassa</city>
+                <country_code>GB</country_code>
+              </address>
+            </addresses>
+            <identification>
+              <type>B</type>
+              <number>417420627205</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>GB</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2015-11-20T00:00:00</opened>
+        <balance>2899657.04</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Grupo Machava Lda</beneficiary>
+        <beneficiary_comment>Grupo Machava Lda</beneficiary_comment>
+      </from_account>
+      <from_country>GB</from_country>
+    </t_from_my_client>
+    <t_to>
+      <to_funds_code>FTM19</to_funds_code>
+      <to_account>
+        <institution_name>Barclays Bank UK</institution_name>
+        <institution_code>BARCGB22</institution_code>
+        <institution_country>GB</institution_country>
+        <account>PT71868052639488448727</account>
+        <account_name>Guambe &amp; Mahumane S.A.</account_name>
+        <t_entity>
+          <name>Guambe &amp; Mahumane S.A.</name>
+          <commercial_name>Guambe &amp; Mahumane S.A.</commercial_name>
+          <incorporation_country_code>GB</incorporation_country_code>
+        </t_entity>
+        <beneficiary>Guambe &amp; Mahumane S.A.</beneficiary>
+        <beneficiary_comment>Guambe &amp; Mahumane S.A.</beneficiary_comment>
+      </to_account>
+      <to_country>GB</to_country>
+    </t_to>
+  </transaction>
+</report>

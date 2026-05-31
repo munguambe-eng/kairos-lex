@@ -1,0 +1,789 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<report>
+  <schema_version>5.0.2</schema_version>
+  <rentity_id>33</rentity_id>
+  <rentity_branch>Kairos Bank Mozambique Sede</rentity_branch>
+  <submission_code>E</submission_code>
+  <report_code>DEFT</report_code>
+  <entity_reference>KAIROS.DEFT.20260527_0001.xml+20260527+0001</entity_reference>
+  <report_date>2026-05-27T00:00:00</report_date>
+  <currency_code_local>MZN</currency_code_local>
+  <reporting_user_code>ComplianceUser01</reporting_user_code>
+  <location>
+    <address_type>B</address_type>
+      <address>Praca 25 de Junho</address>
+      <city>Maputo</city>
+      <country_code>MZ</country_code>
+      <state>Maputo</state>
+    </location>
+  <action>N/A</action>
+  <transaction>
+    <transactionnumber>EFT-UU-000457</transactionnumber>
+    <internal_ref_number>EFT-UU-000457</internal_ref_number>
+    <transaction_description>Transferência interna ref.457</transaction_description>
+    <date_transaction>2026-05-15T07:14:08</date_transaction>
+    <value_date>2026-05-15T07:14:08</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM4</transmode_code>
+    <amount_local>2491038.33</amount_local>
+    <t_from_my_client>
+      <from_funds_code>FTM19</from_funds_code>
+      <from_funds_comment>Funds Transfer</from_funds_comment>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830121317432</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Moçambique Tecnologia de Informação S.A.</account_name>
+        <iban>MZ00830121317432</iban>
+        <client_number>128</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Moçambique Tecnologia de Informação S.A.</name>
+          <commercial_name>Moçambique Tecnologia de Informação S.A.</commercial_name>
+          <incorporation_number>852515404</incorporation_number>
+          <business>Educação</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258865256649</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Munguambe n.942</address>
+              <city>Gaza</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <incorporation_state>Gaza</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>841894524</tax_number>
+          <tax_reg_number>852515404</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Carla</first_name>
+            <last_name>Munguambe</last_name>
+            <birthdate>1968-06-07</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258853630663</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <city>Gaza</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <employer_address_id>
+              <address_type>B</address_type>
+              <address>Av. Munguambe n.942</address>
+              <city>Gaza</city>
+              <country_code>MZ</country_code>
+            </employer_address_id>
+            <identification>
+              <type>BI</type>
+              <number>418389540324</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2024-01-10</opened>
+        <balance>4743401.36</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Moçambique Tecnologia de Informação S.A.</beneficiary>
+        <beneficiary_comment>Moçambique Tecnologia de Informação S.A.</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from_my_client>
+    <t_to_my_client>
+      <to_funds_code>FTM19</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830142274599</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Chemane &amp; Magaia S.A.</account_name>
+        <iban>MZ00830142274599</iban>
+        <client_number>192389742</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Chemane &amp; Magaia S.A.</name>
+          <commercial_name>Chemane &amp; Magaia S.A.</commercial_name>
+          <incorporation_number>443649231</incorporation_number>
+          <business>Tecnologia de Informação</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258219912612</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Chemane n.733</address>
+              <city>Nampula</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <incorporation_state>Nampula</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>192389742</tax_number>
+          <tax_reg_number>443649231</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Carla</first_name>
+            <last_name>Macamo</last_name>
+            <birthdate>1960-02-20</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258867390751</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <city>Nampula</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <employer_address_id>
+              <address_type>B</address_type>
+              <address>Av. Chemane n.733</address>
+              <city>Nampula</city>
+              <country_code>MZ</country_code>
+            </employer_address_id>
+            <identification>
+              <type>Passaporte</type>
+              <number>740144754779</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2022-08-04</opened>
+        <balance>0</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Chemane &amp; Magaia S.A.</beneficiary>
+        <beneficiary_comment>Chemane &amp; Magaia S.A.</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to_my_client>
+  </transaction>
+  <transaction>
+    <transactionnumber>EFT-UT-000120</transactionnumber>
+    <internal_ref_number>EFT-UT-000120</internal_ref_number>
+    <transaction_description>Transferência para Grupo Matsimbe Lda</transaction_description>
+    <date_transaction>2026-05-15T10:33:23</date_transaction>
+    <value_date>2026-05-15T10:33:23</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM4</transmode_code>
+    <amount_local>2898072.73</amount_local>
+    <t_from>
+      <from_funds_code>FTM19</from_funds_code>
+      <from_account>
+        <institution_name>FNB Mozambique</institution_name>
+        <institution_code>FNBSMZMM</institution_code>
+        <institution_country>MZ</institution_country>
+        <account>00800490164660</account>
+        <account_name>Grupo Matsimbe Lda</account_name>
+        <t_entity>
+          <name>Grupo Matsimbe Lda</name>
+          <commercial_name>Grupo Matsimbe Lda</commercial_name>
+          <incorporation_country_code>MZ</incorporation_country_code>
+        </t_entity>
+        <beneficiary>Grupo Matsimbe Lda</beneficiary>
+        <beneficiary_comment>Grupo Matsimbe Lda</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from>
+    <t_to_my_client>
+      <to_funds_code>FTM19</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830163935891</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Grupo Zunguze S.A.</account_name>
+        <iban>MZ00830163935891</iban>
+        <client_number>66</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Grupo Zunguze S.A.</name>
+          <commercial_name>Grupo Zunguze S.A.</commercial_name>
+          <incorporation_number>196191857</incorporation_number>
+          <business>Saúde e Farmácia</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258852058847</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Zunguze n.887</address>
+              <city>Maputo Cidade</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <email>grupo.zunguze.s.a.@outlook.com</email>
+          <incorporation_state>Maputo Cidade</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>580936124</tax_number>
+          <tax_reg_number>196191857</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Pedro</first_name>
+            <middle_name>Uamusse</middle_name>
+            <last_name>Mahumane</last_name>
+            <birthdate>1984-12-30</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>ZA</nationality1>
+            <residence>ZA</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258855844835</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <city>Maputo Cidade</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <employer_address_id>
+              <address_type>B</address_type>
+              <address>Av. Zunguze n.887</address>
+              <city>Maputo Cidade</city>
+              <country_code>MZ</country_code>
+            </employer_address_id>
+            <identification>
+              <type>BI</type>
+              <number>374214090595</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2018-08-11</opened>
+        <balance>354269.15</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Grupo Zunguze S.A.</beneficiary>
+        <beneficiary_comment>Grupo Zunguze S.A.</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to_my_client>
+  </transaction>
+  <transaction>
+    <transactionnumber>EFT-UU-000391</transactionnumber>
+    <internal_ref_number>EFT-UU-000391</internal_ref_number>
+    <transaction_description>Transferência interna ref.391</transaction_description>
+    <date_transaction>2026-05-15T14:30:55</date_transaction>
+    <value_date>2026-05-15T14:30:55</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM4</transmode_code>
+    <amount_local>526235.17</amount_local>
+    <t_from_my_client>
+      <from_funds_code>FTM19</from_funds_code>
+      <from_funds_comment>Funds Transfer</from_funds_comment>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830164628972</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Mondlane Consultoria e Assessoria Lda</account_name>
+        <iban>MZ00830164628972</iban>
+        <client_number>136</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Mondlane Consultoria e Assessoria Lda</name>
+          <commercial_name>Mondlane Consultoria e Assessoria Lda</commercial_name>
+          <incorporation_number>209002632</incorporation_number>
+          <business>Indústria Transformadora</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258836707882</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Mabunda n.674</address>
+              <city>Nampula</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <email>mondlane.consultoria@co.mz</email>
+          <incorporation_state>Nampula</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>491152072</tax_number>
+          <tax_reg_number>209002632</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Paula</first_name>
+            <middle_name>Chibuto</middle_name>
+            <last_name>Sitoe</last_name>
+            <birthdate>1979-09-24</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>ZA</nationality1>
+            <residence>ZA</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258219414764</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <city>Nampula</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <employer_address_id>
+              <address_type>B</address_type>
+              <address>Av. Mabunda n.674</address>
+              <city>Nampula</city>
+              <country_code>MZ</country_code>
+            </employer_address_id>
+            <identification>
+              <type>BI</type>
+              <number>841378650395</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2020-04-10</opened>
+        <balance>2700450.89</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Mondlane Consultoria e Assessoria Lda</beneficiary>
+        <beneficiary_comment>Mondlane Consultoria e Assessoria Lda</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from_my_client>
+    <t_to_my_client>
+      <to_funds_code>FTM19</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830163200290</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Moçambique Construção Civil Lda</account_name>
+        <iban>MZ00830163200290</iban>
+        <client_number>274762758</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Moçambique Construção Civil Lda</name>
+          <commercial_name>Moçambique Construção Civil Lda</commercial_name>
+          <incorporation_number>156277706</incorporation_number>
+          <business>Consultoria e Assessoria</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258826271917</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Nhavene n.321</address>
+              <city>Nampula</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <incorporation_state>Nampula</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>274762758</tax_number>
+          <tax_reg_number>156277706</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Conceição</first_name>
+            <middle_name>Tembe</middle_name>
+            <last_name>Cumbe</last_name>
+            <birthdate>1994-05-14</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>PT</nationality1>
+            <residence>PT</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258870895974</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <city>Nampula</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <employer_address_id>
+              <address_type>B</address_type>
+              <address>Av. Nhavene n.321</address>
+              <city>Nampula</city>
+              <country_code>MZ</country_code>
+            </employer_address_id>
+            <identification>
+              <type>BI</type>
+              <number>989350426998</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2018-08-13</opened>
+        <balance>0</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Moçambique Construção Civil Lda</beneficiary>
+        <beneficiary_comment>Moçambique Construção Civil Lda</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to_my_client>
+  </transaction>
+  <transaction>
+    <transactionnumber>EFT-UT-000201</transactionnumber>
+    <internal_ref_number>EFT-UT-000201</internal_ref_number>
+    <transaction_description>Transferência para Grupo Cossa S.A.</transaction_description>
+    <date_transaction>2026-05-15T14:39:43</date_transaction>
+    <value_date>2026-05-15T14:39:43</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM4</transmode_code>
+    <amount_local>507617.4</amount_local>
+    <t_from>
+      <from_funds_code>FTM19</from_funds_code>
+      <from_account>
+        <institution_name>Absa Bank Mozambique</institution_name>
+        <institution_code>ABSAMAMX</institution_code>
+        <institution_country>MZ</institution_country>
+        <account>00300680981704</account>
+        <account_name>Grupo Cossa S.A.</account_name>
+        <t_entity>
+          <name>Grupo Cossa S.A.</name>
+          <commercial_name>Grupo Cossa S.A.</commercial_name>
+          <incorporation_country_code>MZ</incorporation_country_code>
+        </t_entity>
+        <beneficiary>Grupo Cossa S.A.</beneficiary>
+        <beneficiary_comment>Grupo Cossa S.A.</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from>
+    <t_to_my_client>
+      <to_funds_code>FTM19</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830131343124</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Grupo Cuvele S.A.</account_name>
+        <iban>MZ00830131343124</iban>
+        <client_number>7</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Grupo Cuvele S.A.</name>
+          <commercial_name>Grupo Cuvele S.A.</commercial_name>
+          <incorporation_number>175776197</incorporation_number>
+          <business>Saúde e Farmácia</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258876290569</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Nhateve n.110</address>
+              <city>Sofala</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <email>grupo.cuvele.s.a.@gmail.com</email>
+          <incorporation_state>Sofala</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>343519224</tax_number>
+          <tax_reg_number>175776197</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Álvaro</first_name>
+            <last_name>Nhacuamba</last_name>
+            <birthdate>1982-08-09</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258828338967</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <city>Sofala</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <employer_address_id>
+              <address_type>B</address_type>
+              <address>Av. Nhateve n.110</address>
+              <city>Sofala</city>
+              <country_code>MZ</country_code>
+            </employer_address_id>
+            <identification>
+              <type>BI</type>
+              <number>074789535205</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2021-11-18</opened>
+        <balance>874432.23</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Grupo Cuvele S.A.</beneficiary>
+        <beneficiary_comment>Grupo Cuvele S.A.</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to_my_client>
+  </transaction>
+  <transaction>
+    <transactionnumber>EFT-UU-000117</transactionnumber>
+    <internal_ref_number>EFT-UU-000117</internal_ref_number>
+    <transaction_description>Transferência interna ref.117</transaction_description>
+    <date_transaction>2026-05-15T18:57:34</date_transaction>
+    <value_date>2026-05-15T18:57:34</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM4</transmode_code>
+    <amount_local>1298344.64</amount_local>
+    <t_from_my_client>
+      <from_funds_code>FTM19</from_funds_code>
+      <from_funds_comment>Funds Transfer</from_funds_comment>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830177893061</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Machava Importação e Exportação Lda</account_name>
+        <iban>MZ00830177893061</iban>
+        <client_number>152</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Machava Importação e Exportação Lda</name>
+          <commercial_name>Machava Importação e Exportação Lda</commercial_name>
+          <incorporation_number>507003464</incorporation_number>
+          <business>Agricultura e Pecuária</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258860206228</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Zunguze n.469</address>
+              <city>Inhambane</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <incorporation_state>Inhambane</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>516197459</tax_number>
+          <tax_reg_number>507003464</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Sofia</first_name>
+            <middle_name>Cumbe</middle_name>
+            <last_name>Mondlane</last_name>
+            <birthdate>1987-01-09</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>PT</nationality1>
+            <residence>PT</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258213492177</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <city>Inhambane</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <employer_address_id>
+              <address_type>B</address_type>
+              <address>Av. Zunguze n.469</address>
+              <city>Inhambane</city>
+              <country_code>MZ</country_code>
+            </employer_address_id>
+            <identification>
+              <type>BI</type>
+              <number>042065476268</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2017-07-18</opened>
+        <balance>4503109.8</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Machava Importação e Exportação Lda</beneficiary>
+        <beneficiary_comment>Machava Importação e Exportação Lda</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from_my_client>
+    <t_to_my_client>
+      <to_funds_code>FTM19</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830106389702</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Chaúque &amp; Uamusse Lda</account_name>
+        <iban>MZ00830106389702</iban>
+        <client_number>950679647</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Chaúque &amp; Uamusse Lda</name>
+          <commercial_name>Chaúque &amp; Uamusse Lda</commercial_name>
+          <incorporation_number>278535269</incorporation_number>
+          <business>Importação e Exportação</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258848699425</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Guambe n.217</address>
+              <city>Sofala</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <incorporation_state>Sofala</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>950679647</tax_number>
+          <tax_reg_number>278535269</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Fátima</first_name>
+            <middle_name>Matsimbe</middle_name>
+            <last_name>Mondlane</last_name>
+            <birthdate>1989-11-20</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258831701391</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <city>Sofala</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <employer_address_id>
+              <address_type>B</address_type>
+              <address>Av. Guambe n.217</address>
+              <city>Sofala</city>
+              <country_code>MZ</country_code>
+            </employer_address_id>
+            <identification>
+              <type>BI</type>
+              <number>770032124709</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2023-03-15</opened>
+        <balance>0</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Chaúque &amp; Uamusse Lda</beneficiary>
+        <beneficiary_comment>Chaúque &amp; Uamusse Lda</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to_my_client>
+  </transaction>
+</report>

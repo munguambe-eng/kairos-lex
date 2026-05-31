@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<report>
+  <schema_version>5.0.2</schema_version>
+  <rentity_id>33</rentity_id>
+  <rentity_branch>Kairos Bank Mozambique Sede</rentity_branch>
+  <submission_code>E</submission_code>
+  <report_code>DEFT</report_code>
+  <entity_reference>KAIROS.DEFT.20260528_0001.xml+20260528+0001</entity_reference>
+  <report_date>2026-05-28T00:00:00</report_date>
+  <currency_code_local>MZN</currency_code_local>
+  <reporting_user_code>ComplianceUser01</reporting_user_code>
+  <location>
+    <address_type>B</address_type>
+      <address>Praca 25 de Junho</address>
+      <city>Maputo</city>
+      <country_code>MZ</country_code>
+      <state>Maputo</state>
+    </location>
+  <action>N/A</action>
+  <transaction>
+    <transactionnumber>EFT-UU-000011</transactionnumber>
+    <internal_ref_number>EFT-UU-000011</internal_ref_number>
+    <transaction_description>Transferência interna ref.11</transaction_description>
+    <date_transaction>2026-05-14T16:30:11</date_transaction>
+    <value_date>2026-05-14T16:30:11</value_date>
+    <transaction_type_code>TTM1</transaction_type_code>
+    <transmode_code>TMM4</transmode_code>
+    <amount_local>546397.49</amount_local>
+    <t_from_my_client>
+      <from_funds_code>FTM19</from_funds_code>
+      <from_funds_comment>Funds Transfer</from_funds_comment>
+      <from_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830130260830</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Bila Energia e Recursos Naturais Lda</account_name>
+        <iban>MZ00830130260830</iban>
+        <client_number>159</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Bila Energia e Recursos Naturais Lda</name>
+          <commercial_name>Bila Energia e Recursos Naturais Lda</commercial_name>
+          <incorporation_number>570026371</incorporation_number>
+          <business>Agricultura e Pecuária</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258836243433</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Cossa n.109</address>
+              <city>Zambézia</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <email>bila.energia.e.recur@gmail.com</email>
+          <incorporation_state>Zambézia</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>384416251</tax_number>
+          <tax_reg_number>570026371</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>António</first_name>
+            <last_name>Muchanga</last_name>
+            <birthdate>1967-11-08T00:00:00</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>MZ</nationality1>
+            <residence>MZ</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258831239171</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <address>Zambézia</address>
+                <city>Zambézia</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <identification>
+              <type>B</type>
+              <number>451714426585</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2023-01-08T00:00:00</opened>
+        <balance>1227004.84</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Bila Energia e Recursos Naturais Lda</beneficiary>
+        <beneficiary_comment>Bila Energia e Recursos Naturais Lda</beneficiary_comment>
+      </from_account>
+      <from_country>MZ</from_country>
+    </t_from_my_client>
+    <t_to_my_client>
+      <to_funds_code>FTM19</to_funds_code>
+      <to_account>
+        <institution_name>Kairos Bank Mozambique S.A.</institution_name>
+        <institution_code>00830</institution_code>
+        <institution_country>MZ</institution_country>
+        <branch>Branch</branch>
+        <account_category>ACM1</account_category>
+        <account>00830174313364</account>
+        <currency_code>MZN</currency_code>
+        <account_name>Muchanga Consultoria e Assessoria Lda</account_name>
+        <iban>MZ00830174313364</iban>
+        <client_number>714205566</client_number>
+        <account_type>ATM1</account_type>
+        <t_entity>
+          <name>Muchanga Consultoria e Assessoria Lda</name>
+          <commercial_name>Muchanga Consultoria e Assessoria Lda</commercial_name>
+          <incorporation_number>182326750</incorporation_number>
+          <business>Indústria Transformadora</business>
+          <phones>
+            <phone>
+              <tph_contact_type>B</tph_contact_type>
+              <tph_communication_type>M</tph_communication_type>
+              <tph_number>258215373332</tph_number>
+            </phone>
+          </phones>
+          <addresses>
+            <address>
+              <address_type>B</address_type>
+              <address>Av. Zunguze n.40</address>
+              <city>Nampula</city>
+              <country_code>MZ</country_code>
+            </address>
+          </addresses>
+          <email>muchanga.consultoria@gmail.com</email>
+          <incorporation_state>Nampula</incorporation_state>
+          <incorporation_country_code>MZ</incorporation_country_code>
+          <tax_number>714205566</tax_number>
+          <tax_reg_number>182326750</tax_reg_number>
+        </t_entity>
+        <signatory>
+          <t_person>
+            <first_name>Manuel</first_name>
+            <middle_name>Matsimbe</middle_name>
+            <last_name>Machava</last_name>
+            <birthdate>1995-07-17T00:00:00</birthdate>
+            <birth_place>MZ</birth_place>
+            <nationality1>ZA</nationality1>
+            <residence>ZA</residence>
+            <phones>
+              <phone>
+                <tph_contact_type>B</tph_contact_type>
+                <tph_communication_type>M</tph_communication_type>
+                <tph_number>258850232327</tph_number>
+              </phone>
+            </phones>
+            <addresses>
+              <address>
+                <address_type>P</address_type>
+                <address>Nampula</address>
+                <city>Nampula</city>
+                <country_code>MZ</country_code>
+              </address>
+            </addresses>
+            <identification>
+              <type>B</type>
+              <number>704333790703</number>
+              <issue_date>2020-01-01T00:00:00</issue_date>
+              <issue_country>MZ</issue_country>
+            </identification>
+            <tax_number>000000000</tax_number>
+          </t_person>
+        </signatory>
+        <opened>2020-06-28T00:00:00</opened>
+        <balance>0</balance>
+        <status_code>AS1</status_code>
+        <beneficiary>Muchanga Consultoria e Assessoria Lda</beneficiary>
+        <beneficiary_comment>Muchanga Consultoria e Assessoria Lda</beneficiary_comment>
+      </to_account>
+      <to_country>MZ</to_country>
+    </t_to_my_client>
+  </transaction>
+</report>
